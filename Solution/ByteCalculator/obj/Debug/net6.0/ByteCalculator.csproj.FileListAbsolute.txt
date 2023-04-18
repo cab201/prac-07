@@ -1,0 +1,30 @@
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB201\Exercises\ByteCalculator\bin\Debug\net6.0\ByteCalculator.exe
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB201\Exercises\ByteCalculator\bin\Debug\net6.0\ByteCalculator.deps.json
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB201\Exercises\ByteCalculator\bin\Debug\net6.0\ByteCalculator.runtimeconfig.json
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB201\Exercises\ByteCalculator\bin\Debug\net6.0\ByteCalculator.dll
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB201\Exercises\ByteCalculator\bin\Debug\net6.0\ByteCalculator.pdb
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB201\Exercises\ByteCalculator\obj\Debug\net6.0\ByteCalculator.csproj.AssemblyReference.cache
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB201\Exercises\ByteCalculator\obj\Debug\net6.0\ByteCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB201\Exercises\ByteCalculator\obj\Debug\net6.0\ByteCalculator.AssemblyInfoInputs.cache
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB201\Exercises\ByteCalculator\obj\Debug\net6.0\ByteCalculator.AssemblyInfo.cs
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB201\Exercises\ByteCalculator\obj\Debug\net6.0\ByteCalculator.csproj.CoreCompileInputs.cache
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB201\Exercises\ByteCalculator\obj\Debug\net6.0\ByteCalculator.dll
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB201\Exercises\ByteCalculator\obj\Debug\net6.0\refint\ByteCalculator.dll
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB201\Exercises\ByteCalculator\obj\Debug\net6.0\ByteCalculator.pdb
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB201\Exercises\ByteCalculator\obj\Debug\net6.0\ByteCalculator.genruntimeconfig.cache
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB201\Exercises\ByteCalculator\obj\Debug\net6.0\ref\ByteCalculator.dll
+C:\Users\MELTUser01\source\repos\Code\ByteCalculator\bin\Debug\net6.0\ByteCalculator.exe
+C:\Users\MELTUser01\source\repos\Code\ByteCalculator\bin\Debug\net6.0\ByteCalculator.deps.json
+C:\Users\MELTUser01\source\repos\Code\ByteCalculator\bin\Debug\net6.0\ByteCalculator.runtimeconfig.json
+C:\Users\MELTUser01\source\repos\Code\ByteCalculator\bin\Debug\net6.0\ByteCalculator.dll
+C:\Users\MELTUser01\source\repos\Code\ByteCalculator\bin\Debug\net6.0\ByteCalculator.pdb
+C:\Users\MELTUser01\source\repos\Code\ByteCalculator\obj\Debug\net6.0\ByteCalculator.csproj.AssemblyReference.cache
+C:\Users\MELTUser01\source\repos\Code\ByteCalculator\obj\Debug\net6.0\ByteCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MELTUser01\source\repos\Code\ByteCalculator\obj\Debug\net6.0\ByteCalculator.AssemblyInfoInputs.cache
+C:\Users\MELTUser01\source\repos\Code\ByteCalculator\obj\Debug\net6.0\ByteCalculator.AssemblyInfo.cs
+C:\Users\MELTUser01\source\repos\Code\ByteCalculator\obj\Debug\net6.0\ByteCalculator.csproj.CoreCompileInputs.cache
+C:\Users\MELTUser01\source\repos\Code\ByteCalculator\obj\Debug\net6.0\ByteCalculator.dll
+C:\Users\MELTUser01\source\repos\Code\ByteCalculator\obj\Debug\net6.0\refint\ByteCalculator.dll
+C:\Users\MELTUser01\source\repos\Code\ByteCalculator\obj\Debug\net6.0\ByteCalculator.pdb
+C:\Users\MELTUser01\source\repos\Code\ByteCalculator\obj\Debug\net6.0\ByteCalculator.genruntimeconfig.cache
+C:\Users\MELTUser01\source\repos\Code\ByteCalculator\obj\Debug\net6.0\ref\ByteCalculator.dll
